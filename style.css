@@ -50,9 +50,10 @@ table td
     width: 200px;
 }
 
-#footer
+footer
 {
     margin-top: 10px;
+    font-weight: bold;
 }
 
 .labels
